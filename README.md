@@ -1,9 +1,9 @@
 # Java_Script_Project
 
-## Author : Himanshuraj Tiwari
+### Author : Himanshuraj Tiwari
 
 
-## Project 1 : Random Joke Generator
+### Project 1 : Random Joke Generator
     Here I try to make web page for random joke generation using api from Google.
 
 #### URL
