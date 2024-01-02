@@ -10,6 +10,7 @@
 
 [Random Joke Generator API](https://sv443.net/jokeapi/v2/)
 
+---
 
 ### Project 2 : Country Guide
   > This will help you to give information about country like population, area, capital, timezone and many other thing.
