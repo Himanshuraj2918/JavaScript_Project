@@ -8,4 +8,4 @@
 
     ### url for joke generator api
 
-     [Random Joke Generator API](https://sv443.net/jokeapi/v2/  "Random Joke Generator API")
+     [Random Joke Generator API](https://sv443.net/jokeapi/v2/)
